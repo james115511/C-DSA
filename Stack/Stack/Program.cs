@@ -118,7 +118,6 @@ namespace Stack
                         }
                         catch (Exception )
                         {
-
                             Console.Write("That was not a number \n");
                         }
                     
