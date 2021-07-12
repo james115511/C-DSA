@@ -1,7 +1,0 @@
-C:\Users\jhs11\Desktop\c# DSA\C-DSA\Stack\Stack\Stack\bin\Debug\Stack.exe.config
-C:\Users\jhs11\Desktop\c# DSA\C-DSA\Stack\Stack\Stack\bin\Debug\Stack.exe
-C:\Users\jhs11\Desktop\c# DSA\C-DSA\Stack\Stack\Stack\bin\Debug\Stack.pdb
-C:\Users\jhs11\Desktop\c# DSA\C-DSA\Stack\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
-C:\Users\jhs11\Desktop\c# DSA\C-DSA\Stack\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
-C:\Users\jhs11\Desktop\c# DSA\C-DSA\Stack\Stack\Stack\obj\Debug\Stack.exe
-C:\Users\jhs11\Desktop\c# DSA\C-DSA\Stack\Stack\Stack\obj\Debug\Stack.pdb
