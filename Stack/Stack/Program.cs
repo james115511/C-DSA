@@ -103,10 +103,11 @@ namespace Stack
                 "3. Pop \n" + 
                 "4. Contents \n" +
                 "5. Exit \n");
+            
             string x = Console.ReadLine();
             
             switch (x)
-            {
+                {
                 case "1":
                     stax.peek();
                     break;
@@ -119,8 +120,7 @@ namespace Stack
                         catch (Exception )
                         {
                             Console.Write("That was not a number \n");
-                        }
-                    
+                        }                    
                     break;
                 case "3":
                     stax.pop();
@@ -131,12 +131,10 @@ namespace Stack
                 case "5":
                     exit = true;
                     break;
-
                     default:
                     Console.WriteLine("Please Choose a number 1-5");
                     break;
-            }
-
+                }
             } while (exit == false);
         }
     }
