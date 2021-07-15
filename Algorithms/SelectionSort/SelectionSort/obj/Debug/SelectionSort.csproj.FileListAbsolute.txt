@@ -1,0 +1,7 @@
+C:\Users\jhs11\Desktop\c# DSA\C-DSA\Algorithms\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\jhs11\Desktop\c# DSA\C-DSA\Algorithms\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\jhs11\Desktop\c# DSA\C-DSA\Algorithms\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\jhs11\Desktop\c# DSA\C-DSA\Algorithms\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.AssemblyReference.cache
+C:\Users\jhs11\Desktop\c# DSA\C-DSA\Algorithms\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\jhs11\Desktop\c# DSA\C-DSA\Algorithms\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\jhs11\Desktop\c# DSA\C-DSA\Algorithms\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb
